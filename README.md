@@ -5,5 +5,7 @@ The complete code is broken down into 3 parts.
 Each part includes an aim descripion.
 
 Use my code to help you on your coding and if you have them, offer suggestions for making my code more efficient.
+
 Be constructive! 
+
 Please and thank you ~
