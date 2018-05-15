@@ -1,5 +1,5 @@
 # studious-giggle
-################# Part 1 #################
+####################################################################
 I am working on my R scripting skills!
 Below is the code I used to accomplish:
 1. Reading in a csv file
@@ -7,7 +7,7 @@ Below is the code I used to accomplish:
 3. Creating a new file that includes the revised data frame
 4. Removing rows within the data frame with NA's in specified columns
 If you guys have suggestions for making my code more efficient, please do so!
-################# Part 1 #################
+####################################################################
 
 # load the package
 library(readr)
