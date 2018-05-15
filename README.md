@@ -58,7 +58,7 @@ Aim: Pre-process microarray expression data (22,215 probes) for 192 samples by:
 1. Calculating the z-score of each probe per sample
 2. Finding the absolute value of each probe's z-score per sample
 3. Calculating the mean probe z-score of each sample
-4.
+4. Writing the data frame to a file
 
 # Read the file
 zf <- read.csv("GSE4115_probeset_expression.csv",header=TRUE) # read the file
