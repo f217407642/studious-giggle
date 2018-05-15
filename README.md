@@ -118,6 +118,7 @@ zn_zscore_posit_mean <- colMeans(zf_zscore_posit)
 
 # histogram of the mean z-score per sample 
 low<- 0.792655197257325 #mean(zm_zscore[,c("GSM94118")])
+
 hist(zn_zscore_posit_mean,
      breaks=100,
      xlim=c(.778,.805),
