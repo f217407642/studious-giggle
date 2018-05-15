@@ -1,12 +1,17 @@
+# studious-giggle
+I am working on my R scripting skills ~
+Included in this repository is my R code for a group project I worked on in a bioinformatics class.
+It is broken down into 3 parts.
+I share it with you all so you may offer suggestions for making my code more efficient.
+Be constructive, please and thank you !
+
 # PART 1
-I am working on my R scripting skills!
-Below is the code I used to accomplish:
+
+Aim: Clean up a patient sample annotation csv file by:
 1. Reading in a csv file
 2. Removing characters within each field (column) that precede and include a semicolon
 3. Creating a new file that includes the revised data frame
 4. Removing rows within the data frame with NA's in specified columns
-
-If you guys have suggestions for making my code more efficient, please make them!
 
 
 # load the package
@@ -49,6 +54,12 @@ write.csv(gsea_split_cleaned,"gsea4115_gsea_split_cleaned.csv",row.names=F,quote
 gsplitcleaned <- read.csv("gsea4115_gsea_split_cleaned.csv",head=TRUE)
 
 # PART 2
+Aim: Pre-process microarray expression data (22,215 probes) for 192 samples by:
+1. Calculating the z-score of each probe per sample
+2. Finding the absolute value of each probe's z-score per sample
+3. Calculating the mean probe z-score of each sample
+4.
+
 # Read the file
 zf <- read.csv("GSE4115_probeset_expression.csv",header=TRUE) # read the file
 # Convert the data frame to a matrix!
