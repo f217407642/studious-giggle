@@ -1,7 +1,7 @@
 # studious-giggle
-Included in this repository is the R code I used for pre-processing files for a group project I worked on recently.
+Included in this repository is the R code I used to pre-process files for a group project I worked on recently.
 
-It is broken down into 3 parts.
+The complete code is broken down into 3 parts.
 Each part includes an aim descripion.
 
 Use my code to help you on your coding and if you have them, offer suggestions for making my code more efficient.
