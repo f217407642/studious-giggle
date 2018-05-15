@@ -4,6 +4,7 @@ Below is the code I used to accomplish:
 2. Removing characters within each field (column) that precede and include a semicolon
 3. Creating a new file that includes the revised data frame
 4. Removing rows within the data frame with NA's in specified columns
+
 If you guys have suggestions for making my code more efficient, please make them!
 
 
