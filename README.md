@@ -1,8 +1,7 @@
 # studious-giggle
 Included in this repository is the R code I used to clean up and pre-process:
-1. a microarray data file 
-2. a patient sample annotation file
-for a group project I worked on recently.
+i. a microarray data file and a 
+ii. patient sample annotation file
 
 The complete code is broken down into 3 parts.
 Each part includes an aim descripion.
