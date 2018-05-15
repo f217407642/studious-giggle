@@ -1,5 +1,3 @@
-
-####################################################################
 I am working on my R scripting skills!
 Below is the code I used to accomplish:
 1. Reading in a csv file
